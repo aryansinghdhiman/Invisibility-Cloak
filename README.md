@@ -32,7 +32,7 @@ The **Invisibility Cloak Project** is a creative application of computer vision 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com//invisibility-cloak.git
+   git clone https://github.com/aryansinghdhiman/Invisibility-Cloak.git
    cd invisibility-cloak
    ```
 
@@ -93,7 +93,7 @@ The **Invisibility Cloak Project** is a creative application of computer vision 
 ---
 
 ## **Contributors**  
-- [Aryan Singh Dhiman](https://github.com/your-github)  
+- [Aryan Singh Dhiman](https://github.com/aryansinghdhiman)  
 
 Feel free to contribute by submitting issues or creating pull requests!
 
